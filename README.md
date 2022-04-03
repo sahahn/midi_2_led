@@ -9,3 +9,5 @@ This project is designed to implement the raspberry PI as a MIDI to DMX converte
 ### Directory
 
 This directory includes the final code in workingBuild.py, a midi test script, a GUI for editting config files in configEditor.py and also some other funny odds and ends, e.g., the original project proposal, and in leiu of proper version control, just a folder filled with different versions of the code.
+
+Give the code itself some slack, I had only taken my first intro to python class a little under a year before trying this project. Instead check out the cool videos of the final working version: https://www.youtube.com/channel/UCV7bcBXoSTE6RovpsHM6S3A/videos
