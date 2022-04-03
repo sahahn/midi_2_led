@@ -1,0 +1,58 @@
+Hot Colors Chaos Fade Out
+Device Type
+2
+
+Number of Lights
+6
+
+Device Color Mode
+1
+
+Color Range
+8
+
+Device ID
+3
+
+Mod Mode
+0
+
+Pitch Wheel Semitones
+0
+
+Synth Mode
+0
+
+Leftify Mode
+0
+
+Fade Out
+1
+
+Fade Out Speed
+1
+
+Fade Out Rate
+4
+
+Fade In
+0
+
+Fade In Drop 
+0
+
+Fade In Speed
+0
+
+Fade In RATE
+0
+
+Chaos Mode
+1
+
+Sticky Mode
+0
+
+Double Mode
+0
+

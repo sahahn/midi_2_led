@@ -1,0 +1,58 @@
+OCTA-PAD WITH FADE
+Device Type
+2
+
+Number of Lights
+6
+
+Device Color Mode
+0
+
+Color Range
+8
+
+Device ID
+3
+
+Mod Mode
+1
+
+Pitch Wheel Semitones
+2
+
+Synth Mode
+2
+
+Leftify Mode
+0
+
+Fade Out
+1
+
+Fade Out Speed
+4
+
+Fade Out Rate
+1
+
+Fade In
+0
+
+Fade In Drop
+5
+
+Fade In Speed
+1
+
+Fade In RATE
+1
+
+Chaos Mode
+0
+
+Sticky Mode
+1
+
+Double Mode
+0
+

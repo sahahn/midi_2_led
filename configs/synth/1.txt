@@ -1,0 +1,69 @@
+LEFTIFY
+Device Type
+1
+
+Number of Lights
+6
+
+Device Color Mode
+0
+
+Color Range
+12
+
+Device ID
+3
+
+Mod Mode
+1
+
+Pitch Wheel Semitones
+2
+
+Synth Mode
+1
+
+Leftify Mode
+1
+
+Fade Out
+0
+
+Fade Out Speed
+0
+
+Fade Out Rate
+4
+
+Fade In
+0
+
+Fade Drop
+1
+
+Fade In Speed
+1
+
+Fade In Rate
+1
+
+Chaos Mode
+0
+
+Sticky Mode
+0
+
+Double Mode
+0
+
+Number Of Configs
+9
+
+Config Folder Name
+synth
+
+
+
+
+
+

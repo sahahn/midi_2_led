@@ -1,0 +1,63 @@
+DOUBLE MODE WITH MOD 2
+#Device Type: 1 for Synth, 2 for Octopad
+1
+
+#Number of Lights
+6
+
+#Device Color Mode, 0 for full spectrum, 1 for hot, 2 for cold
+0
+
+#Color Range, 12 is one octave
+12
+
+#Device ID
+3
+
+#Mod Mode
+2
+
+#Amount of semitones controlled by the pitch wheel
+2
+
+#Synth Mode, 1 for chord mode, 2 for single note
+1
+
+#Leftify chord, option for synth mode 1, either 0 off, 1 on
+0
+
+#Fade out option, NOT COMPATIBLE WITH LEFTIFY
+0
+
+#Fade out speed, this is how how many ticks per minusing the fade rate, IE only change from 1 for very slow fades
+0
+
+#Fade out rate
+4
+
+#Fade in option, note this is not compatible with the octapad mode, or leftify yet
+0
+
+#Fade in drop value, the value velocity is docked by, ie .5 for lights starting half as bright as usual
+5
+
+#Fade in speed, how many ticks the fade in rate is added to velocity, IE keep at 1, except for very slow fades
+1
+
+#Fade in rate
+1
+
+#Chaos Mode, not compatible with  leftify
+0
+
+#Sticky on or off, 0 for off, 1 for on
+0
+
+#Double mode, 0 for off, 1 for on
+1
+
+
+
+
+
+

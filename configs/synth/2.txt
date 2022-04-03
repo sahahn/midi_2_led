@@ -1,0 +1,58 @@
+SINGLE NOTE SLOW FADE IN/OUT
+Device Type
+1
+
+Number of Lights
+6
+
+Device Color Mode
+3
+
+Color Range
+12
+
+Device ID
+3
+
+Mod Mode
+2
+
+Pitch Wheel Semitones
+2
+
+Synth Mode
+2
+
+Leftify Mode
+0
+
+Fade Out
+1
+
+Fade Out Speed
+1
+
+Fade Out Rate
+1
+
+Fade In
+1
+
+Fade In Drop
+5
+
+Fade In Speed
+1
+
+Fade In RATE
+1
+
+Chaos Mode
+0
+
+Sticky Mode
+0
+
+Double Mode
+0
+
